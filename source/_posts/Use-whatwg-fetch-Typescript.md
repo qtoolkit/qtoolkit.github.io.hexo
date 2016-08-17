@@ -1,5 +1,5 @@
 ---
-title: Use whatwg-fetch Typescript
+title: Use whatwg-fetch In Typescript
 date: 2016-07-31 12:16:18
 categories: 学习笔记
 comments: true

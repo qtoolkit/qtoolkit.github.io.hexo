@@ -7,7 +7,7 @@ tags: [Assets,QToolKit]
 keywords: Assets,QToolKit
 ---
 
-QTK Assets主要是对APP使用的资源进行管理，资源包括图片、声音、字体和其它数据。
+[QTK](https://github.com/qtoolkit/qtk)中的Assets主要是对APP使用的资源进行管理，资源包括图片、声音、字体和其它数据。
 
 1.加载指定的资源。加载指定URL的资源，返回一个Promise。如果资源已经加载，就直接从缓存中获取，如果没有加载，就从网络获取，并放入到缓存中。
 
